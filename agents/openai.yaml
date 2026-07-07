@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Monkey's Paw"
+  short_description: "Serve the spirit, never the letter -- read what you inherited as possible cursed wishes"
+  default_prompt: "Use $the-monkey-paw to read every inherited artifact (code, doctrine, a metric, a prior agent's done claim) as a possible cursed wish: recover its intent, distrust the self-report, reach for the eraser, and serve the spirit of an instruction rather than its literal shape."
